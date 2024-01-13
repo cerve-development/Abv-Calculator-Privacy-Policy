@@ -1,4 +1,4 @@
-<h1>Privacy Policy of Cerve.1</h1>
+<h1>Privacy Policy of Cerve</h1>
 
 <p>Cerve.1 built the Simple Abv Calculator app as an Ad free app. This SERVICE is provided by Cerve.1 at no cost and is intended for use as is.</p>
 
